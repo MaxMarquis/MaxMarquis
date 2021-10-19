@@ -1,4 +1,5 @@
-### Bonjour 👋 Je m'appelle Maxim Marquis et bienvenue sur mon profil GitHub !
+### Bonjour 👋 
+# Je m'appelle Maxim Marquis et bienvenue sur mon profil GitHub !
 
 
 - 🔭 Étudiant de la formation: AEC Développement Web au [Cégep de Trois-Rivières](https://www.cegeptr.qc.ca/)
