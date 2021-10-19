@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 
 
-[Cégep de trois-rivières] = https://www.cegeptr.qc.ca/
+[Cégep de trois-rivières](https://www.cegeptr.qc.ca/)
