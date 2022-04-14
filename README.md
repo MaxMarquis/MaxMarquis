@@ -3,16 +3,7 @@
 
 
 
-- 🔭 Étudiant de la formation: AEC Développement Web au [Cégep de Trois-Rivières](https://www.cegeptr.qc.ca/)
-- 🌱 Je suis présentement entrain d'apprendre le framework Angular en TypeScript
-
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-
-
+- 🔭 Nouveau dans le monde du web et à la fin de l'AEC Développement Web au [Cégep de Trois-Rivières](https://www.cegeptr.qc.ca/)
+- 👩‍💻 HTML CSS JAVASCRIPT
+- 🌱 React Angular VueJS
+- 📦 Git GitHub
